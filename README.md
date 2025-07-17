@@ -52,8 +52,8 @@
   </style>
 </head>
 <body>
-  <h1>🎉 Happy Birthday, [Friend's Name]! 🎂</h1>
-  <p id="wish">Wishing you a day full of joy, love & amazing surprises!</p>
+  <h1>🎉 Happy Birthday, Tiny!!! 🎂</h1>
+  <p id="wish">Wishing you a day full of joy, You are the most perfect bestie i have ever had love & amazing surprises!</p>
   <button onclick="playTunes()">🎵 Play Celebration Music!</button>
 
   <audio id="bgMusic" src="https://your-audio-source.mp3" loop></audio>
